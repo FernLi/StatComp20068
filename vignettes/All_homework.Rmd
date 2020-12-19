@@ -1302,8 +1302,6 @@ rwR_Metropolis = function(sigma, x0, N){
     return(list(x = x, k = k))
   }
 
-dir_cpp = 'C:/Users/admin/Desktop/StatComp20068/src/'
-sourceCpp(paste0(dir_cpp,"rwC_Metropolis.cpp"))
 x0 = 15
 N = 2000
 sigma = 2
