@@ -1,0 +1,17 @@
+Package: StatComp20068
+Type: Package
+Title: Title: hypothetical test
+Version: 1.0
+Date: 2020-12-18
+Author: Qiuyang Li
+Maintainer: Qiuyang Li <2213847080@qq.com>
+Description:Several R and Rcpp function are included in this package for illustration. 
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.5), microbenchmark, knitr, rmarkdown
+LinkingTo: Rcpp
+RoxygenNote: 7.1.1
+VignetteBuilder: knitr
+Encoding: UTF-8
+URL: http://github.com/FernLi/StatComp20068
+BugReports: http://github.com/FernLi/StatComp20068/issues
+
